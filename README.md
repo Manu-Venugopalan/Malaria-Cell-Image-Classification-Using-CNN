@@ -1,4 +1,11 @@
 ## 🦟 Malaria Cell Image Classification using Convolutional Neural Networks (CNN)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![TensorFlow/Keras](https://img.shields.io/badge/Deep%20Learning-TensorFlow%2FKeras-blue)
+![CNN](https://img.shields.io/badge/Model-CNN-green)
+![Image Classification](https://img.shields.io/badge/Task-Image%20Classification-yellowgreen)
+![Dataset](https://img.shields.io/badge/Dataset-NIH%20Malaria%20Dataset-lightgrey)
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 This project focuses on detecting **malaria-infected cells** from microscopic images using a **Convolutional Neural Network (CNN)**. It automates the classification of parasitized and uninfected blood cells, contributing toward faster and more reliable malaria diagnosis.
 
